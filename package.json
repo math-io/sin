@@ -1,6 +1,6 @@
 {
   "name": "math-sin",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Computes the sine of a number.",
   "author": {
     "name": "Athan Reines",
